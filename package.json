@@ -62,8 +62,11 @@
     "**/*"
   ],
   "license": "ISC",
-  "repository": "github:zerodevx/svelte-toast",
-  "homepage": "https://zerodevx.github.io/svelte-toast/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikcz/svelte-toast.git"
+  },
+  "homepage": "https://github.com/dominikcz/svelte-toast/",
   "keywords": [
     "svelte",
     "vanillajs",
